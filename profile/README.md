@@ -41,7 +41,7 @@
       </td>
     </tr>
     <tr>
-      <th>Tools</th>
+      <th>개발도구</th>
       <td>
         <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -49,7 +49,7 @@
       </td>
     </tr>
      <tr>
-      <th>Collabortation Tools</th>
+      <th>생산성</th>
       <td>
         <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
         <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
