@@ -5,11 +5,15 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/2024-TikiTaka/.github/blob/main/Logo/logo_triptroop_horizontal_darkmode.png?raw=true">
   <img src="https://github.com/2024-TikiTaka/.github/blob/main/Logo/logo_triptroop_horizontal_lightmode.png?raw=true" height="55">
 </picture>
+<br />
+<br />
+<br />
+
 - 트립트룹(TRIPTROOP)은 여행 정보 및 일정 공유 플랫폼입니다.
+
 <br />
 <br />
-<br />
-  
+
 ## 💻 개발 환경
 <table>
   <tbody>
