@@ -22,9 +22,11 @@
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
         <img alt="React" src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB">
         <img alt="Redux" src="https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white">
-        <img alt="React-Router" src="https://img.shields.io/badge/React_Router-black?style=for-the-badge&logo=reactrouter&logoColor=white">
         <img alt="Axios" src="https://img.shields.io/badge/Axios-ffffff?style=for-the-badge&logo=axios&logoColor=671ddf">
-        <img alt="React-Hook-Form" src="https://img.shields.io/badge/React_Hook_Form-white?style=for-the-badge&logo=React-Hook-Form&logoColor=white&color=ec5990" />
+        <br/>
+        <img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
+        <img alt="React-Bootstrap" src="https://img.shields.io/badge/React_Bootstrap-41E0FD?style=for-the-badge&logo=reactbootstrap&logoColor=white" />
+        <img alt="React-Hook-Form" src="https://img.shields.io/badge/React_Hook_Form-ec5990?style=for-the-badge&logo=React-Hook-Form&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -33,17 +35,17 @@
         <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
         <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
         <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
-        <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
         <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+        <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
       </td>
     </tr>
     <tr>
       <th align="left">Infrastructure</th>
       <td>
-        <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-        <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img alt="Amazon" src="https://img.shields.io/badge/Amazon_Web_Service-232F3E?style=for-the-badge&logo=amazon&logoColor=FF9900" />
         <img alt="Docker" src="https://img.shields.io/badge/docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white" />
-        <img alt="Github Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+        <img alt="Github Actions" src="https://img.shields.io/badge/github%20actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -57,9 +59,9 @@
      <tr>
       <th align="left">Collaboration Platforms</th>
       <td>
-        <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-        <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-        <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" />
+        <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white" />
+        <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
       </td>
     </tr>
   </tbody>
