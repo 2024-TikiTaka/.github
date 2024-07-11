@@ -23,7 +23,6 @@
         <img alt="React" src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB">
         <img alt="Redux" src="https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white">
         <img alt="Axios" src="https://img.shields.io/badge/Axios-ffffff?style=for-the-badge&logo=axios&logoColor=671ddf">
-        <br/>
         <img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
         <img alt="React-Bootstrap" src="https://img.shields.io/badge/React_Bootstrap-41E0FD?style=for-the-badge&logo=reactbootstrap&logoColor=white" />
         <img alt="React-Hook-Form" src="https://img.shields.io/badge/React_Hook_Form-ec5990?style=for-the-badge&logo=React-Hook-Form&logoColor=white" />
