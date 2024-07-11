@@ -1,14 +1,17 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/2024-TikiTaka/.github/blob/main/Logo/logo_triptroop_horizontal_darkmode.png?raw=true">
-  <img src="https://github.com/2024-TikiTaka/.github/blob/main/Logo/logo_triptroop_horizontal_lightmode.png?raw=true" height="50">
-</picture>
-<br />
-<br />
-</div>
+  <br />
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/2024-TikiTaka/.github/blob/main/Logo/logo_triptroop_horizontal_darkmode.png?raw=true">
+    <img src="https://github.com/2024-TikiTaka/.github/blob/main/Logo/logo_triptroop_horizontal_lightmode.png?raw=true" height="50">
+  </picture>
+  <br />
+  <br />
+  <br />
 
-## 🛠️ 언어 및 개발환경
+  
+## 💻 기술
 <table>
   <tbody>
     <tr>
@@ -62,62 +65,67 @@
     </tr>
   </tbody>
 </table>
+<br />
+<br />
 
-## 🧑‍🤝‍🧑팀원 소개
-<table>
-  <thead>
-    <tr>
-      <th>
-        김다솔
-      </th>
-      <th>
-        김아현
-      </th>
-      <th>
-        박병언
-      </th>
-      <th>
-        이은재
-      </th>
-      <th>
-        조형기
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-     <tr>
-      <td width="20%">
-        <img alt="김다솔"src="https://avatars.githubusercontent.com/u/154950177?v=4" width="100%"/>
-      </td>
-      <td width="20%">
-        <img alt="김아현"src="https://avatars.githubusercontent.com/u/42160693?s=96&v=4" width="100%"/>
-      </td>
-      <td width="20%">
-        <img alt="박병언"src="https://avatars.githubusercontent.com/u/154950075?s=60&v=4" width="100%"/>
-      </td>
-      <td width="20%">
-        <img alt="이은재"src="https://avatars.githubusercontent.com/u/154950170?v=4" width="100%"/>
-      </td>
-      <td width="20%">
-        <img alt="조형기" src="https://avatars.githubusercontent.com/u/120306336?v=4" width="100%"/>
-      </td>
-    </tr>
-     <tr>
-      <td align="center">
-        <a href="https://github.com/ddalla0425">@ddalla0425</a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/may54ther">@may54ther</a>
-      </th>
-      <td align="center">
-        <a href="https://github.com/qkrquddjs1">@qkrquddjs1</a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/EUNJAE97">@EUNJAE97</a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/chk2023">@chk2023</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+## 🫶🏻 팀원
+  <table>
+    <thead>
+      <tr>
+        <th>
+          김다솔
+        </th>
+        <th>
+          김아현
+        </th>
+        <th>
+          박병언
+        </th>
+        <th>
+          이은재
+        </th>
+        <th>
+          조형기
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+       <tr>
+        <td>
+          <img alt="김다솔"src="https://avatars.githubusercontent.com/u/154950177?v=4" width="110"/>
+        </td>
+        <td>
+          <img alt="김아현"src="https://avatars.githubusercontent.com/u/42160693?s=96&v=4" width="110"/>
+        </td>
+        <td>
+          <img alt="박병언"src="https://avatars.githubusercontent.com/u/154950075?s=60&v=4" width="110"/>
+        </td>
+        <td>
+          <img alt="이은재"src="https://avatars.githubusercontent.com/u/154950170?v=4" width="110"/>
+        </td>
+        <td>
+          <img alt="조형기" src="https://avatars.githubusercontent.com/u/120306336?v=4" width="110"/>
+        </td>
+      </tr>
+       <tr>
+        <td align="center">
+          <a href="https://github.com/ddalla0425">@ddalla0425</a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/may54ther">@may54ther</a>
+        </th>
+        <td align="center">
+          <a href="https://github.com/qkrquddjs1">@qkrquddjs1</a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/EUNJAE97">@EUNJAE97</a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/chk2023">@chk2023</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
