@@ -1,10 +1,13 @@
 
   <br />
+  <br />
+  <br />
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/2024-TikiTaka/.github/blob/main/Logo/logo_triptroop_horizontal_darkmode.png?raw=true">
     <img src="https://github.com/2024-TikiTaka/.github/blob/main/Logo/logo_triptroop_horizontal_lightmode.png?raw=true" height="55">
   </picture>
+  <br />
   <br />
   <br />
   <br />
@@ -59,7 +62,6 @@
       </tr>
     </tbody>
   </table>
-  <br />
   <br />
 
 
