@@ -94,27 +94,27 @@
      <tr>
       <td>
         <a href="https://github.com/ddalla0425">
-          <img alt="김다솔"src="https://avatars.githubusercontent.com/u/154950177?v=4" width="110"/>
+          <img alt="김다솔"src="https://avatars.githubusercontent.com/u/154950177" width="110"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/may54ther">
-          <img alt="김아현"src="https://avatars.githubusercontent.com/u/42160693?s=96&v=4" width="110"/>
+          <img alt="김아현"src="https://avatars.githubusercontent.com/u/42160693" width="110"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/qkrquddjs1">
-          <img alt="박병언"src="https://avatars.githubusercontent.com/u/154950075?s=60&v=4" width="110"/>
+          <img alt="박병언"src="https://avatars.githubusercontent.com/u/151039466" width="110"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/EUNJAE97">
-          <img alt="이은재"src="https://avatars.githubusercontent.com/u/154950170?v=4" width="110"/>
+          <img alt="이은재"src="https://avatars.githubusercontent.com/u/154950170" width="110"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/chk2023">
-          <img alt="조형기" src="https://avatars.githubusercontent.com/u/120306336?v=4" width="110"/>
+          <img alt="조형기" src="https://avatars.githubusercontent.com/u/120306336" width="110"/>
         </a>
       </td>
     </tr>
